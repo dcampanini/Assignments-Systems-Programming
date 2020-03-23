@@ -1,0 +1,16 @@
+// Programa aca el juego de la vida
+
+// Parte a
+
+unsigned long long transicion(unsigned long long) {
+  ...
+}
+
+
+// Parte b
+
+int main(int argc, char **argv) {
+  ...
+}
+
+// Otras funciones que necesite
